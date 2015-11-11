@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PlatformGame/PlatformGame.iml" filepath="$PROJECT_DIR$/PlatformGame/PlatformGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlatformGame-android/PlatformGame-android.iml" filepath="$PROJECT_DIR$/PlatformGame-android/PlatformGame-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlatformGame-desktop/PlatformGame-desktop.iml" filepath="$PROJECT_DIR$/PlatformGame-desktop/PlatformGame-desktop.iml" />
+    </modules>
+  </component>
+</project>
